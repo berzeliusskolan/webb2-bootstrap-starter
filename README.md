@@ -1,30 +1,39 @@
+# Bootstrap 4 starter
+Denna workspace är en starter för bootstrap.
+Klona detta workspace för att kunna följa med i videorna. Fördelen med det är att du får med övningsfilerna som hör till videorna.
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+I mappen dev jobbar du. Den är redo för att ta vid där video 1.3 slutar.
 
+I mappen assets finns alla filer du behöver. Ska du kolla på video 6.3 och vill ha filer eller annat till det så gå in i mappen assets > 6.3 och leta.
 
-Hi there! Welcome to Cloud9 IDE!
+## Översikt över videorna
+Videorna finns länkade på Classroom.
 
-To get you started, we have created a small hello world application.
+### 0 Introduktion av Bootstrap
+Vad videoserien handlar om. 
 
-1) Open the hello-world.php file
+### 1 Installera bootstrap
+Efter att ha följt videorna så har du vad du redan har när du klonat detta workspace.
 
-2) Follow the run instructions in the file's comments
+### 2 Grunder med klasser mm
+Bootstrap är uppbyggt av klasser. Dessa videor går igenom grunder och hur du jobbar med dem. 
 
-3) If you want to look at the Apache logs, check out ~/lib/apache2/log
+### 3 Grid och layout
+Den absolut största anledningen att jobba med Bootstrap. Videorna går igenom hur dess grid fungerar och hur det beter sig vid olika breakpoints.
 
-And that's all there is to it! Just have fun. Go ahead and edit the code, 
-or add new files. It's all up to you! 
+### 4 Menyer
+De behövs alltid. Bootstrap har en massa bra saker kring dem.
 
-Happy coding!
-The Cloud9 IDE team
+### 5 Förgjorda stilar för knappar etc
+Allt blir så mycket enklare med förgjord styling för knappar mm.
 
+### 6 Layout (inte grid)
+Hur man får saker att bete sig snyggt inuti grid, i exempelvis ett kort
 
-## Support & Documentation
+### 7 Formulär
+Vi älskar dem och hatar dem. Bootstrap gör allt lite bättre.
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### 8 Javascript med popups, karusell etc
+Allt det coola man vill göra.
+
+/Johan
